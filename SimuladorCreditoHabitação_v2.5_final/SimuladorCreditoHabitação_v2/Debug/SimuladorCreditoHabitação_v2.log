@@ -1,0 +1,18 @@
+﻿  simulacao.c
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(73): warning C4133: 'function' : incompatible types - from 'listaSimulacoes *' to 'dadosPessoaisSimulacao *'
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(45): warning C4101: 'novoCliente' : unreferenced local variable
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(172): warning C4013: '_getche' undefined; assuming extern returning int
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(293): warning C4013: 'validaPrazoEmprestimo' undefined; assuming extern returning int
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(422): warning C4013: 'tabelaIMT' undefined; assuming extern returning int
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(423): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(425): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\simulacao.c(463): warning C4244: 'return' : conversion from 'double' to 'int', possible loss of data
+  prep_ficheiros.c
+  menus.c
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\menus.c(483): warning C4133: 'function' : incompatible types - from 'small_rect *' to 'const SMALL_RECT *'
+  main.c
+c:\users\sam\documents\ap2\trabalhoap2\simuladorcreditohabitação_v2.4\simuladorcreditohabitação_v2\main.c(13): warning C4013: 'system' undefined; assuming extern returning int
+  funcionarios.c
+  cliente.c
+  Generating Code...
+  SimuladorCreditoHabitação_v2.vcxproj -> C:\Users\Sam\Documents\AP2\TrabalhoAP2\SimuladorCreditoHabitação_v2.4\Debug\SimuladorCreditoHabitação_v2.exe
